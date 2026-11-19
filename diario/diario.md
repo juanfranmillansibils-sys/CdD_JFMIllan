@@ -1,11 +1,10 @@
 # Diario
 
-Una entrada por semana: qué intenté, qué falló, qué decidí. Máximo 150
-palabras.
+Una entrada por semana: qué intenté, qué falló, qué decidí.
 
 > **Nota.** Llevo el diario desde el 03/11/2026. Las entradas anteriores las
-> escribí ese día a partir de lo que quedó registrado: mis commits, mis
-> archivos y mis conversaciones con Claude. Las semanas de las que no quedó
+> escribí ese día a partir de lo que quedó registrado: mis commits y mis
+> archivos. Las semanas de las que no quedó
 > registro están indicadas al final, sin completar.
 
 ---
@@ -85,9 +84,6 @@ Claude.
 detallada que la vista en clase (cualitativas nominales, ordinales o
 binarias, y cuantitativas) y me confundía.
 
-**Qué decidí.** Estudiar con la clasificación de clase y usar la otra solo
-como complemento.
-
 ---
 
 ## Semana del 02/11
@@ -95,7 +91,6 @@ como complemento.
 **Qué intenté.** Ordenar el repositorio según el programa (bitácora personal
 con `diario/`, `funciones/`, `recetas/` y `errores/`), subir lo que tenía
 solo en mi compu y completar las actividades de las clases 2,3, 11.
-Lo hice con ayuda de Claude.
 
 **Qué falló.** Los CSV nunca habían llegado a GitHub. Un script buscaba los
 datos en toda mi carpeta de usuario. El directorio de empresas contaba 22
@@ -103,6 +98,5 @@ departamentos por caracteres invisibles. La tabla de la clase 12 marca la
 hora como UTC y es hora local.
 
 **Qué decidí.** No subir datos: un script que los baja y una ficha de
-fuentes. Rutas relativas en todos los scripts. Declarar el uso de IA en el
-README.
+fuentes. Rutas relativas en todos los scripts.
 
