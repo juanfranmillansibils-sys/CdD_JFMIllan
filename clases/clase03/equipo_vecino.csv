@@ -1,0 +1,41 @@
+ID Transaccion,Fecha Operacion,Sucursal ,Monto UYU,Medio de Pago
+1001,02/03/2026,Centro,1.295,credito
+1002,03/03/2026,Centro ,3.416,debito
+1003,04/03/2026, Carrasco,1.055,efectivo
+1004,05/03/2026,Pocitos ,2.207,efectivo
+1005,06/03/2026,Pocitos ,2.032,debito
+1006,07/03/2026,Centro ,980,efectivo
+1007,08/03/2026,Centro,2.336,debito
+1008,09/03/2026, Carrasco,1.371,efectivo
+1009,10/03/2026,Centro,731,efectivo
+1010,11/03/2026,Centro,2.540,credito
+1011,12/03/2026, Carrasco,509,efectivo
+1012,13/03/2026,Centro ,852,debito
+1013,14/03/2026, Carrasco,1.640,debito
+1014,15/03/2026,Centro ,2.757,debito
+1015,16/03/2026, Carrasco,2.435,credito
+1016,17/03/2026,Centro ,1.862,efectivo
+1017,18/03/2026, Carrasco,364,debito
+1018,19/03/2026,Centro,1.017,credito
+1019,20/03/2026,Centro ,1.202,efectivo
+1020,21/03/2026,Pocitos ,702,debito
+1021,22/03/2026, Carrasco,271,efectivo
+1022,23/03/2026,Pocitos ,1.697,debito
+1023,24/03/2026,Centro,2.487,efectivo
+1024,25/03/2026,Centro ,1.130,credito
+1025,26/03/2026,Centro ,2.734,credito
+1026,27/03/2026, Carrasco,452,debito
+1027,28/03/2026,Pocitos ,665,credito
+1028,29/03/2026,Centro ,1.672,efectivo
+1029,30/03/2026, Carrasco,1.056,debito
+1030,31/03/2026,Pocitos ,2.351,efectivo
+1031,01/04/2026,Pocitos ,2.096,credito
+1032,02/04/2026,Centro,1.116,efectivo
+1033,03/04/2026,Centro,495,credito
+1034,04/04/2026, Carrasco,1.018,credito
+1035,05/04/2026,Centro ,2.131,debito
+1036,06/04/2026,Centro,2.414,credito
+1037,07/04/2026,Centro ,1.060,debito
+1038,08/04/2026,Centro ,270,credito
+1039,09/04/2026,Pocitos ,428,debito
+1040,10/04/2026, Carrasco,2.014,credito

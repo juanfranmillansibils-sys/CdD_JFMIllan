@@ -1,5 +1,4 @@
 # Datos: se versiona el código que los obtiene (datos/obtener_datos.py), no los datos
-*.csv
 *.xlsx
 *.parquet
 datos/*.jpg
